@@ -1,6 +1,6 @@
 # TSLint Config Sweetbridge
 
-[![NPM version](https://img.shields.io/npm/v/@sweetbridge/tslint-config-sweetbridge.svg?style=flat)](https://npmjs.org/package/@sweetbridge/tslint-config-sweetbridge)
+[![NPM version](https://img.shields.io/npm/v/@sweetbridge/tslint-config.svg?style=flat)](https://npmjs.org/package/@sweetbridge/tslint-config)
 
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [JavaScript Standard Style](http://standardjs.com/)
@@ -13,7 +13,7 @@ This is a tiny wrapper around [tslint-config-standard](https://www.npmjs.com/pac
 ## Installation
 
 ```sh
-npm install tslint-config-sweetbridge --save-dev
+npm install @sweetbridge/tslint-config --save-dev
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Create `tslint.json` file next to your `package.json` (project root):
 
 ```json
 {
-  "extends": "tslint-config-sweetbridge"
+  "extends": "@sweetbridge/tslint-config"
 }
 ```
 
