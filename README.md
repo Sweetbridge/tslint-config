@@ -1,9 +1,7 @@
 # TSLint Config Sweetbridge
 
-[![NPM version](https://img.shields.io/npm/v/tslint-config-sweetbridge.svg?style=flat)](https://npmjs.org/package/tslint-config-sweetbridge)
-[![NPM downloads](https://img.shields.io/npm/dm/tslint-config-sweetbridge.svg?style=flat)](https://npmjs.org/package/tslint-config-sweetbridge)
+[![NPM version](https://img.shields.io/npm/v/@sweetbridge/tslint-config-sweetbridge.svg?style=flat)](https://npmjs.org/package/@sweetbridge/tslint-config-sweetbridge)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/tslint-config-sweetbridge.svg)](https://greenkeeper.io/)
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [JavaScript Standard Style](http://standardjs.com/)
 
@@ -20,7 +18,7 @@ npm install tslint-config-sweetbridge --save-dev
 
 ## Usage
 
-In `tslint.json`:
+Create `tslint.json` file next to your `package.json` (project root):
 
 ```json
 {
