@@ -1,6 +1,6 @@
 {
   "name": "@sweetbridge/tslint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Sweetbridge TSLint config based on JavaScript Standard Style",
   "main": "tslint.js",
   "files": [
@@ -8,9 +8,6 @@
     "README.md",
     "LICENSE"
   ],
-  "scripts": {
-    "lint": "standard"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Sweetbridge/tslint-config.git"
@@ -20,8 +17,7 @@
     "config",
     "standard",
     "standardjs",
-    "typescript",
-    "ts"
+    "typescript"
   ],
   "author": {
     "name": "Sweetbridge Team",
