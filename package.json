@@ -1,6 +1,6 @@
 {
   "name": "@sweetbridge/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Sweetbridge TSLint config based on JavaScript Standard Style",
   "main": "tslint.js",
   "files": [
@@ -30,8 +30,9 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/Sweetbridge/tslint-config",
   "dependencies": {
+    "ts-node": "^4.1.0",
     "tslint": "^5.9.1",
     "tslint-config-standard": "^7.0.0",
-    "typescript": "^2.6.2"
+    "typescript": "^2.7.1"
   }
 }
