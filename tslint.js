@@ -4,6 +4,7 @@ module.exports = {
   ],
   "jsRules": {},
   "rules": {
+    "await-promise": [true, "Bluebird"],
     "max-line-length": {
       "options": [96]
     },
